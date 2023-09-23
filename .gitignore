@@ -1,0 +1,5 @@
+target/
+platform-build/
+.dart_tool/
+.idea/
+*.iml

@@ -1,0 +1,20 @@
+name: savgol
+description: Savitzky-Golay filter
+version: 0.1.0
+repository: https://github.com/tpict/flutter_savgol
+
+environment:
+  sdk: ^3.0.6
+
+dependencies:
+  ffi: ^2.1.0
+  flutter_rust_bridge: ^1.82.1
+  meta: ^1.8.0
+
+  # See https://github.com/fzyzcjy/flutter_rust_bridge/issues/1147
+  uuid: any
+
+dev_dependencies:
+  ffigen: ^9.0.1
+  lints: ^2.0.0
+  test: ^1.21.0

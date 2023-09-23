@@ -1,0 +1,6 @@
+name: my_app_monorepo
+
+environment:
+  sdk: ^3.0.6
+dependencies:
+  melos: ^3.1.1

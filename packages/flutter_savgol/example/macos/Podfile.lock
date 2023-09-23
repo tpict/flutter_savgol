@@ -1,0 +1,21 @@
+PODS:
+  - flutter_savgol (0.0.1)
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - flutter_savgol (from `Flutter/ephemeral/.symlinks/plugins/flutter_savgol/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  flutter_savgol:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_savgol/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  flutter_savgol: 0f804902a0ced256a74d51213a9956711c70f7c3
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 9fc7c843177ee14ef872eaa9c5ed15c1c87cc697
+
+COCOAPODS: 1.12.1
