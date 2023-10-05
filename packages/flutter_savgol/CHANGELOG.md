@@ -1,3 +1,7 @@
+## 0.0.1+2
+
+ - **FIX**: trigger publish.
+
 ## 0.0.1+1
 
  - **FIX**: flutter_savgol savgol dependency.
