@@ -1,3 +1,7 @@
+## 0.0.1+4
+
+ - **FIX**: specific uuid version.
+
 ## 0.0.1+3
 
  - **FIX**: Enable manual trigger of publish workflow.
