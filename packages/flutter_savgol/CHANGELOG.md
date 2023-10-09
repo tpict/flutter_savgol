@@ -1,3 +1,7 @@
+## 0.0.1+5
+
+ - **FIX**: out-of-sync podspec assets.
+
 ## 0.0.1+4
 
  - **FIX**: specific uuid version.
