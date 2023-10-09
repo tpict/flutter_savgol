@@ -1,3 +1,7 @@
+## 0.0.1+6
+
+ - **FIX**: ...and other platforms.
+
 ## 0.0.1+5
 
  - **FIX**: out-of-sync podspec assets.

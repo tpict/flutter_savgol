@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`flutter_savgol` - `v0.0.1+6`](#flutter_savgol---v0016)
+
+---
+
+#### `flutter_savgol` - `v0.0.1+6`
+
+ - **FIX**: ...and other platforms.
+
+
+## 2023-10-09
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`flutter_savgol` - `v0.0.1+5`](#flutter_savgol---v0015)
 
 ---
