@@ -1,3 +1,7 @@
+## 0.0.1+7
+
+ - **FIX**: Fix Wrong path to Android release.
+
 ## 0.0.1+6
 
  - **FIX**: ...and other platforms.
