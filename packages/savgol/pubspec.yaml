@@ -12,7 +12,7 @@ dependencies:
   meta: ^1.8.0
 
   # See https://github.com/fzyzcjy/flutter_rust_bridge/issues/1147
-  uuid: ^3.0.7
+  uuid: ^4.3.3
 
 dev_dependencies:
   ffigen: ^9.0.1
