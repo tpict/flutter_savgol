@@ -1,6 +1,6 @@
 name: flutter_savgol
 description: Savitzky-Golay filter
-version: 0.0.1+7
+version: 0.0.1+8
 homepage: https://github.com/tpict/flutter_savgol
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-  savgol: ^0.1.0+3
+  savgol: ^0.1.0+4
 
 dev_dependencies:
   ffi: ^2.0.1

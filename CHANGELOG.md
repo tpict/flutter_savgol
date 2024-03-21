@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-03-20
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`savgol` - `v0.1.0+4`](#savgol---v0104)
+ - [`flutter_savgol` - `v0.0.1+8`](#flutter_savgol---v0018)
+ - [`flutter_savgol_example` - `v1.0.1`](#flutter_savgol_example---v101)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `flutter_savgol` - `v0.0.1+8`
+ - `flutter_savgol_example` - `v1.0.1`
+
+---
+
+#### `savgol` - `v0.1.0+4`
+
+
 ## 2023-10-10
 
 ### Changes
